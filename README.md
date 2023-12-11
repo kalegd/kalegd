@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kalegd/DigitalBacon" target="_blank"><img src="/images/New Contributors Welcome.png" /></a>
-  <p>👋 My name is Gaurav and I'd like to welcome you to become Digital Bacon's next new contributor</p>
+  <p>👋 My name is Gaurav and I'd like to welcome you to become <a href="https://github.com/kalegd/DigitalBacon">Digital Bacon's</a> next new contributor</p>
 </div>
 
 <!--
